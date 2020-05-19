@@ -1,20 +1,18 @@
 [
 
 {
-	"ID" : "1234"
-	"Name" : "Glasses"
-	"Price" : "$44"
-	"Isle" : "7"
+	"ID" : "1234",
+	"Name" : "Glasses",
+	"Price" : "$44",
+	"Isle" : "7",
 	"Shell" : "4"
 }
+	,
 {
-	"ID" : "45678"
-	"Name" : "Cap"
-	"Price" : "$77"
-	"Isle" : "5"
+	"ID" : "45678",
+	"Name" : "Cap",
+	"Price" : "$77",
+	"Isle" : "5",
 	"Shell" : "3"
 }
-
-
-
 ]
